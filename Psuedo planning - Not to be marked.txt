@@ -1,0 +1,81 @@
+Create a text file with customer details - each line is a new object.
+Create a text file with the restaurant order details - each line is a new object.
+
+Create a class for Driver and construct the object.
+Create a class for Restaurant Orders and construct the object.
+Create a class for Customer and construct the object.
+
+Declare the file paths of Driver text file and store in String.
+Declare the file paths of Restaurant Orders text file and store in String.
+Declare the file paths of Customer text file and store in String.
+
+Create a Method for scanner(NumberOfLines) to  scan the amount of lines that a text file is to know the array size that needs to be created.
+
+Create a Method for Drivers (ObjectCreationDriver) to create an array using the scanner method - Use (NumberOfLines) method to know array size.
+Create a Method for Restaurant Orders (ObjectCreationRestaurant) to create an array using the scanner method - Use (NumberOfLines) method to know array size.
+Create a Method for Customer details (ObjectCreationCustomer) to create an array using the scanner method - Use (NumberOfLines) method to know array size.
+
+
+Build a Prompt system that will ask the user questions in order to add a new order if they want to add a new order.
+Build a new array that is 1 size bigger - that captures the existing information and the new information.
+Replace the original array with the new bigger array.
+
+
+FOR LOOP - Loop creates amount of invoices that is in Restaurant Orders array.
+	Get order Number from the array position from Restaurant Orders.
+
+	Use a FOR LOOP to run through the customers array see which customer matches the order number.
+		Use and IF function to match order number. 
+		Also check if the customer can be found matching the order number, else store as no (0) or yes (1).
+
+	Use a FOR LOOP to run though the drivers array.
+		Use and IF function to update the driver with the least loads && in the city of the order.
+		If no drivers are in the area available drivers = no (0). If available yes (1).
+
+
+	Now that we have the Array Restaurant Order position, Client array position and Driver position:
+	Declare all the String variables that will be needed for the ouput message.
+
+	Create a Method to create the output invoice text(InvoiceDetail) based on the input variables.
+	Run the (InvoiceDetail) with the Declared variables to get an Output text message for CORRECT invoice created.
+
+	
+	Create an Output message if No driver was found in the area (driverErrorOutputMessage).
+
+
+	Create method to Create a file (InvoiceFileCreator) with the input variables of:
+		- Order Number to add to file name.
+		- Text output to be compiled inside text file.
+		- Error message if applicable to add to file name).
+ 	
+
+	IF FORMULA 
+		- if the customer is not found matching the order number.
+		- Declare error message to be used on invoice.
+		- Use (InvoiceFileCreator) to create and error invoice.
+		- Display in console that there was a problem with finding the customer.
+
+	ELSE IF - if there is no drivers available in the order area.
+		- Use (InvoiceFileCreator) to create and error invoice.
+		- Display in console that there was a problem with finding a driver that is available to do the load.
+	 
+	ELSE 	- Use (InvoiceFileCreator) to create an Invoice that is correct for the client.
+		- Display that the invoice was succesfully created.
+
+	
+	IF FORMULA
+		- If a driver was available in the order area
+		- Update the drivers loads array by adding a load to the driver that is delivering the load for this invoice
+
+END of LOOP once all orders are run through.
+
+
+
+
+
+
+
+
+
+
+	

@@ -1,0 +1,22 @@
+Order number 1237
+Customer: Werner Smit
+Email: wernersmit@blouberg.com
+Phone number: 099 954 9595
+Location: Cape Town
+
+You have ordered the following from  Doodles Beachfront in Cape Town
+
+1 x Bacon
+Avo and Cheese Burger (R129.00)
+
+Special instructions: No Tomato on the burger
+
+Total: R129.00
+
+Cayson Warner is nearest to the restaurant and so he will be delivering your
+order to you at:
+ 
+50 Brander Avenue
+BloubergRand
+ 
+If you need to contact the restaurant, their number is +27 21 554 1080

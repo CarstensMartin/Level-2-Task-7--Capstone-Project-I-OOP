@@ -1,0 +1,22 @@
+Order number 1238
+Customer: Peter Samuals
+Email: petersamuals@gmail.com
+Phone number: 092 353 5546
+Location: Cape Town
+
+You have ordered the following from  Sir Loin-Durbanville in Cape Town
+
+1 x PRIME CUTs Fillet 300g (R199.95)
+1 x MELT STEAK Rump 300g (R162.95)
+
+Special instructions:  Change chips for baked potatoes
+
+Total: R362.90
+
+Miranda Metcalfe is nearest to the restaurant and so he will be delivering your
+order to you at:
+ 
+8 Cocorico Street
+Durbanville
+ 
+If you need to contact the restaurant, their number is +27 21 981 0316

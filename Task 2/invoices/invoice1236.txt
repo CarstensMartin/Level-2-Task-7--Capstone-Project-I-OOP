@@ -1,0 +1,22 @@
+Order number 1236
+Customer: Sam Williams
+Email: samwilliams@hyperion.com
+Phone number: 098 765 4321
+Location: Cape Town
+
+You have ordered the following from  Mantra Cafe in Cape Town
+
+1 x Tuna Ceviche (R125.00)
+1 x Sirloin Tagliata (R245.00)
+
+Special instructions: Extra Pepper sauce
+
+Total: R370.00
+
+Miranda Metcalfe is nearest to the restaurant and so he will be delivering your
+order to you at:
+ 
+15 Hyperion Road
+Cliffton
+ 
+If you need to contact the restaurant, their number is +27 21 437 0005
